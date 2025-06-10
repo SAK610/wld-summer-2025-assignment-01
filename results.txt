@@ -1,11 +1,13 @@
-Calculate overall average unemployment rate
+STATISTICAL ANALSIS
+
+Calculate overall average unemployment rate?
 Overall average unemployment rate was 5.676% during the 78 years provided in the data
 
-Find minimum and maximum unemployment rates with their dates
+Find minimum and maximum unemployment rates with their dates?
 Maximum unemployment rate: 14.8% on 2020-04-01
 Minimum unemployment rate: 2.5% on 1953-05-01
 
-Calculate unemployment statistics by decade (1950s, 1960s, etc.)
+Calculate unemployment statistics by decade (1950s, 1960s, etc.)?
 | Decade | Average Unemployment Rate (%) |
 | ------ | ----------------------------- |
 | 1940s  | 4.90%                         |
@@ -19,15 +21,35 @@ Calculate unemployment statistics by decade (1950s, 1960s, etc.)
 | 2020s  | 4.90% (so far)                |
 
 
-Identify the year with the highest average unemployment rate
+Identify the year with the highest average unemployment rate?
 The year with the highest average unemployment rate is 1982 with an average rate of 9.71%
 
+BUSINESS QUESTIONS
+
 What was the unemployment rate during major economic events (2008 financial crisis, COVID-19 pandemic)?
-The peak unemployment rate during the financial crisis reached 10.0% in October 2009. This spike followed the collapse of major financial institutions and the global economic downturn
-The unemployment rate surged to a historic high of 14.8% in April 2020, the highest in the dataset. This sharp increase was driven by widespread lockdowns and business closures at the onset of the COVID-19 pandemic
+The peak unemployment rate during the financial crisis reached 10.0% in October 2009. This spike followed 
+the collapse of major financial institutions and the global economic downturn.
+The unemployment rate surged to a historic high of 14.8% in April 2020, the highest in the dataset. 
+This sharp increase was driven by widespread lockdowns and business closures at the onset of the COVID-19 pandemic
 
 Which decade had the most stable unemployment rates (lowest standard deviation)?
 The 1990s were the most stable decade in terms of unemployment, with a standard deviation of just 1.049
 
 What’s the trend in unemployment over the last 10 years?
-Over the past decade (from 2015 to the most recent data point), the unemployment rate decreased from 5.28% to 4.12%. While there was a sharp temporary spike in 2020 due to COVID-19, the overall long-term trend shows a gradual recovery and improvement in the labor market
+Over the past decade (from 2015 to the most recent data point), the unemployment rate decreased from 5.28% to 4.12%. 
+While there was a sharp temporary spike in 2020 due to COVID-19, the overall long-term trend shows a gradual
+recovery and improvement in the labor market
+
+Conclusion
+Understanding unemployment trends is incredibly useful for making smart business decisions. 
+Our analysis shows how unemployment responds during major events like the 2008 financial crisis and 
+the COVID-19 pandemic. For instance, the sharp spike to 14.8% in April 2020 reflects a period when 
+businesses faced massive disruptions — fewer people working meant less consumer spending, more caution
+in hiring, and higher financial risk. On the other hand, the steady decline from 5.7% in 2015 to 4.1% 
+in 2025 suggests a stronger job market and growing economic confidence, which can encourage companies 
+to expand operations, invest in growth, or launch new products. The 1990s stood out as a particularly 
+stable decade, which can help businesses plan more confidently during similar economic conditions. In 
+short, tracking unemployment helps companies with workforce planning, predicting market demand, and assessing
+economic risks — all of which are crucial for staying competitive and making well-timed strategic moves
+
+

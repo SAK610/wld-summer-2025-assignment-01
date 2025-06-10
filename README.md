@@ -55,3 +55,6 @@ Frequency: Monthly
 
 ### 6. GenAI usage
 This project used Open AI's ChatGPT to form the structure of the readme file 
+
+Git repository link
+https://github.com/SAK610/wld-summer-2025-assignment-01.git
